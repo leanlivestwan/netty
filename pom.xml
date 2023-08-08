@@ -12,6 +12,7 @@
 
     <module>wsy-netty-001</module>
       <module>wsy-netty-002</module>
+      <module>wsy-netty-003</module>
   </modules>
 
   <properties>
